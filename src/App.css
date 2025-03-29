@@ -15,7 +15,7 @@ body{
 .passwordBox{
   width: 400px;
 
- 
+  border-radius: 15px;
   padding: 20px;
   background-color: #E5F4E3;
 }
