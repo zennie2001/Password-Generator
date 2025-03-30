@@ -13,9 +13,10 @@ body{
 }
 
 .passwordBox{
+ 
   width: 400px;
 
-  border-radius: 15px;
+  border-radius: 17px;
   padding: 20px;
   background-color: #E5F4E3;
 }
@@ -39,7 +40,7 @@ body{
   border-radius: 5px;
   flex-basis: 20%;
   padding: 10px 0px;
-  margin-left: 2px;
+  margin-left: 3px;
 }
 
 .passLength{
